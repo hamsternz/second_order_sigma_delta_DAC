@@ -9,7 +9,7 @@ External to the FPGA will need to be a passive low pass filter.
 
 Spectrum of the 1st order DAC:
 
-(first_order.png)
+![First order spectrum](first_order.png)
 
 Spectrum of the 2nd order DAC:
-(second_order.png)
+![Second order spectrum](second_order.png)
