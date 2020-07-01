@@ -6,3 +6,10 @@ This small project implements two 12-bit DACs, one being a first order, the seco
 A new sample is provided from a 48-entry lookup table every 1000 clock cycles, so with a 100MHz clock it generates a 2.083kHz signal.
 
 External to the FPGA will need to be a passive low pass filter.
+
+Spectrum of the 1st order DAC:
+
+(first_order.png)
+
+Spectrum of the 2nd order DAC:
+(second_order.png)
