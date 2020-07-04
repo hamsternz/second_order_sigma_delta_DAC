@@ -16,3 +16,5 @@ Spectrum of the 2nd order DAC:
 ![second order spectrum](second.png)
 
 Code for the DAC modules is in VHDL and Verilog
+
+The lower two switches control which DAC is active, the next two control the rate they clock at (full, 1/2, 1/4 or 1/8th of the clock rate).
