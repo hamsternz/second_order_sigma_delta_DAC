@@ -9,13 +9,11 @@ External to the FPGA will need to be a passive low pass filter.
 
 Spectrum of the 1st order DAC:
 
-![First order spectrum](first.png)
+![First order spectrum](dac_1st_order.png)
 
 Spectrum of the 2nd order DAC:
 
-![second order spectrum](second.png)
-
-Note: These are old images - the spectrums are subtantially better when the DACs are updating at a slower rate (e.g. 25MHz).
+![second order spectrum](dac_2nd_order.png)
 
 Code for the DAC modules is in VHDL and Verilog
 
