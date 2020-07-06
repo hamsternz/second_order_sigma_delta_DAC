@@ -18,3 +18,7 @@ Spectrum of the 2nd order DAC:
 Code for the DAC modules is in VHDL and Verilog
 
 The lower two switches control which DAC is active, the next two control the rate they clock at (full, 1/2, 1/4 or 1/8th of the clock rate).
+
+With tweaking of the code you can achieve lower 2nd harmonics - ask me how!
+
+![second order spectrum](dac_2nd_order_tweaked.png)
